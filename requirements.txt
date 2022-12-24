@@ -1,0 +1,4 @@
+mojimoji >= 0.0.12
+phonenumbers >= 8.13.3
+gspread_dataframe >= 3.3.0
+cchardet >= 2.1.7
